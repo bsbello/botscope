@@ -37,3 +37,6 @@ BibText
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 
+
+Souce Code available here https://github.com/bellobichi2/botscope2
+Send email/github username to: bellobichi2@gmail.com
