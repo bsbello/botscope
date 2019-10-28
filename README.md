@@ -1,4 +1,7 @@
-Botscope : A tool for Reverse Engineering the Behaviour of Twitter Bots
+Botscope: A tool for Analyzing the behaviour of Twitter bots based on  
+
+
+An approach for Reverse Engineering the Behaviour of Twitter Bots
 https://ieeexplore.ieee.org/abstract/document/8554675
 
 
@@ -10,7 +13,11 @@ http://tomcat.mcs.le.ac.uk:5000/rulelearning
 To cite this work:
 
 
-{Bello, B.S., Heckel, R. and Minku, L., 2018, October. Reverse Engineering the Behaviour of Twitter Bots. In 2018 Fifth International Conference on Social Networks Analysis, Management and Security (SNAMS) (pp. 27-34). IEEE.}
+Bello, B.S., Heckel, R. and Minku, L., 2018, October. Reverse Engineering the Behaviour of Twitter Bots. In 2018 Fifth International Conference on Social Networks Analysis, Management and Security (SNAMS) (pp. 27-34). IEEE.
+
+
+
+BibTex={Bello, B.S., Heckel, R. and Minku, L., 2018, October. Reverse Engineering the Behaviour of Twitter Bots. In 2018 Fifth International Conference on Social Networks Analysis, Management and Security (SNAMS) (pp. 27-34). IEEE.}
 
 BibText
 @inproceedings{bello2018reverse,
