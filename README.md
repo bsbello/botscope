@@ -11,7 +11,7 @@ Note: New public URL for the application will be available soon. The Service bel
 http://tomcat.mcs.le.ac.uk:5000/rulelearning
 
 Souce Code available here: https://github.com/bellobichi2/botscope2
-Send email/github username to: bellobichi2@gmail.com to get access.
+Please send email/github username to: bellobichi2@gmail.com to get access.
 
 
 To cite this work:
