@@ -8,7 +8,7 @@ https://ieeexplore.ieee.org/abstract/document/8554675
 Note: New public URL for the application will be available soon. The Service below is online available to wired connected systems at the University of Leicester,UK
 
 
-http://tomcat.mcs.le.ac.uk:5000/rulelearning
+http://tomcat.mcs.le.ac.uk:5000/botscope/rulelearning
 
 Souce Code available here: https://github.com/bellobichi2/botscope2
 Please send email/github username to: bellobichi2@gmail.com to get access.
